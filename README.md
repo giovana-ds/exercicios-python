@@ -1,4 +1,4 @@
-## Exercícios em Python
+# Exercícios em Python
 
 Status do projeto
 <p align="center">💻 Em andamento...</p>
